@@ -52,6 +52,15 @@ nav{
     width: 10rem;
     height: 10rem;
 }
+.card-row{
+    height: 500px;
+}
+.card{
+    height: 450px;
+}
+.card-img-top{
+    height: 70%
+}
 footer{
     background-color: #9acd32;
     color: #474747;
