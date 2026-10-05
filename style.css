@@ -61,6 +61,16 @@ nav{
 .card-img-top{
     height: 70%
 }
+.carousel{
+    height: 1000px;
+}
+.carousel-item{
+    height: 1000px;
+}
+.form-check-input:checked{
+    background-color: #9acd32;
+    border: #9acd32;;
+}
 footer{
     background-color: #9acd32;
     color: #474747;
