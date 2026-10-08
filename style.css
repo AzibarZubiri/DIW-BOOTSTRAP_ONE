@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    min-height: 100%;
+}
 body{
     background-color: #e0dddd81;
     color: #000;
@@ -121,4 +123,25 @@ footer p{
     font-size: 20px;
     font-weight: bolder;
     text-align: center;
+}
+.container-quienes{
+    background-color: rgba(105, 105, 105, 0.137);
+    border: #e0dddd81 3px solid;
+    margin: 2rem 0;
+    padding: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    border-radius: 1rem;
+}
+.container-quienes h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    padding: 7rem;
+    margin: auto;
+    width: fit-content;
+}
+.container-quienes p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
 }
